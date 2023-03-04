@@ -16,7 +16,7 @@
 
 ## Layout Desktop
 <div style="display: inline_block"><br>
-<img height="600" alt="Imagem desktop robotron2000" src="https://user-images.githubusercontent.com/94554205/216464501-1522cf03-c8ed-4b92-978a-692ca93a2455.png">
+<img height="600" alt="Imagem desktop robotron2000" src="https://user-images.githubusercontent.com/94554205/222870824-ce392a9d-230c-4a39-96fd-f3e7cd004984.png">
 <img height="600" alt="Imagem desktop robotron2000" src="https://user-images.githubusercontent.com/94554205/222871357-1e5e1652-ff60-43bc-984c-96f47ece8654.png">
 </div>
 
